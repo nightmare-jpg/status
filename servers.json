@@ -1,0 +1,20 @@
+[
+  {
+    "name": "tsukino",
+    "url": "https:/tsukino.moe",
+    "status": "online",
+    "lastChecked": "2025-07-26T02:54:57.993Z"
+  },
+  {
+    "name": "akame",
+    "url": "http://akame.moe",
+    "status": "online",
+    "lastChecked": "2025-07-26T02:54:58.632Z"
+  },
+  {
+    "name": "png",
+    "url": "http://png.tsukino.moe",
+    "status": "online",
+    "lastChecked": "2025-07-26T02:54:59.085Z"
+  }
+]
