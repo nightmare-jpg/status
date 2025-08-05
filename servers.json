@@ -3,18 +3,19 @@
     "name": "tsukino",
     "url": "https:/tsukino.moe",
     "status": "online",
-    "lastChecked": "2025-08-05T18:43:59.655Z"
+    "lastChecked": "2025-08-05T18:57:56.450Z"
   },
   {
     "name": "akame",
     "url": "http://akame.moe",
-    "status": "online",
-    "lastChecked": "2025-08-05T18:44:01.344Z"
+    "status": "offline",
+    "error": "Request failed with status code 502",
+    "lastChecked": "2025-08-05T18:57:56.936Z"
   },
   {
     "name": "png",
     "url": "http://png.tsukino.moe",
     "status": "online",
-    "lastChecked": "2025-08-05T18:44:01.846Z"
+    "lastChecked": "2025-08-05T18:57:57.287Z"
   }
 ]
