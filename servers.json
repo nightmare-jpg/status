@@ -2,19 +2,20 @@
   {
     "name": "tsukino",
     "url": "https:/tsukino.moe",
-    "status": "online",
-    "lastChecked": "2025-08-23T20:22:04.862Z"
+    "status": "offline",
+    "error": "Request failed with status code 403",
+    "lastChecked": "2025-08-23T20:33:50.293Z"
   },
   {
     "name": "akame",
     "url": "http://akame.moe",
     "status": "online",
-    "lastChecked": "2025-08-23T20:22:06.051Z"
+    "lastChecked": "2025-08-23T20:33:50.899Z"
   },
   {
     "name": "png",
     "url": "http://png.tsukino.moe",
     "status": "online",
-    "lastChecked": "2025-08-23T20:22:06.571Z"
+    "lastChecked": "2025-08-23T20:33:51.329Z"
   }
 ]
