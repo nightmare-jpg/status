@@ -3,19 +3,18 @@
     "name": "tsukino",
     "url": "https:/tsukino.moe",
     "status": "online",
-    "lastChecked": "2025-10-23T23:21:51.296Z"
+    "lastChecked": "2025-10-23T23:32:38.743Z"
   },
   {
     "name": "akame",
     "url": "http://akame.moe",
-    "status": "offline",
-    "error": "timeout of 5000ms exceeded",
-    "lastChecked": "2025-10-23T23:21:56.299Z"
+    "status": "online",
+    "lastChecked": "2025-10-23T23:32:39.891Z"
   },
   {
     "name": "png",
     "url": "http://png.tsukino.moe",
     "status": "online",
-    "lastChecked": "2025-10-23T23:21:56.701Z"
+    "lastChecked": "2025-10-23T23:32:40.137Z"
   }
 ]
