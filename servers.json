@@ -4,20 +4,20 @@
     "url": "https:/tsukino.moe",
     "status": "offline",
     "error": "Request failed with status code 500",
-    "lastChecked": "2025-11-18T13:42:48.859Z"
+    "lastChecked": "2025-11-18T13:51:22.555Z"
   },
   {
     "name": "akame",
     "url": "http://akame.moe",
     "status": "offline",
     "error": "Request failed with status code 500",
-    "lastChecked": "2025-11-18T13:42:49.029Z"
+    "lastChecked": "2025-11-18T13:51:23.085Z"
   },
   {
     "name": "png",
     "url": "http://png.tsukino.moe",
     "status": "offline",
     "error": "Request failed with status code 500",
-    "lastChecked": "2025-11-18T13:42:49.388Z"
+    "lastChecked": "2025-11-18T13:51:23.212Z"
   }
 ]
