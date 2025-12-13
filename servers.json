@@ -3,19 +3,19 @@
     "name": "tsukino",
     "url": "https:/tsukino.moe",
     "status": "online",
-    "lastChecked": "2025-12-13T15:47:13.924Z"
+    "lastChecked": "2025-12-13T16:03:47.485Z"
   },
   {
     "name": "akame",
     "url": "http://akame.moe",
     "status": "online",
-    "lastChecked": "2025-12-13T15:47:14.590Z"
+    "lastChecked": "2025-12-13T16:03:48.253Z"
   },
   {
     "name": "png",
     "url": "http://png.tsukino.moe",
     "status": "offline",
     "error": "Request failed with status code 530",
-    "lastChecked": "2025-12-13T15:47:14.937Z"
+    "lastChecked": "2025-12-13T16:03:48.323Z"
   }
 ]
